@@ -2,3 +2,5 @@
 
 下面是安装教程
 https://blog.csdn.net/CJL_asLong72/article/details/113488371?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-8-113488371-blog-121240714.235^v43^pc_blog_bottom_relevance_base3&spm=1001.2101.3001.4242.5&utm_relevant_index=9
+
+其中添加了GLAD文件的压缩包，使用方法相同
